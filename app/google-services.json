@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1092505911057",
+    "firebase_url": "https://notificationtest-9d6f3.firebaseio.com",
+    "project_id": "notificationtest-9d6f3",
+    "storage_bucket": "notificationtest-9d6f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092505911057:android:4e76719d78dd2f206916b0",
+        "android_client_info": {
+          "package_name": "com.photo.firebasenotificationtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092505911057-bm9hsg7bhckmoftohojr39phhbvsaukb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9kTL7lX8vfBV2jdsUJ92PVE7oi1TZkwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092505911057-bm9hsg7bhckmoftohojr39phhbvsaukb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
